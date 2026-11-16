@@ -5,6 +5,9 @@ OWNERDOMAIN=cartucostudiogames.github.io
 # Google AdMob
 google.com, pub-6259820260602716, DIRECT, f08c47fec0942fa0
 
+# ironSource Ads (LevelPlay)
+ironsrc.com, 701877, DIRECT
+
 # Unity Ads (lista do painel da Unity, Configuracoes da organizacao > App-ads.txt)
 smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
